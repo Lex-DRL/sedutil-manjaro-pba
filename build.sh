@@ -4,7 +4,7 @@ set -e
 SCRIPT_VERSION='1.0.0'
 
 # Configuration
-SEDUTIL_VER='1.15.1' # 1.15/1.15.1/1.20, or empty - to use the latest version from AUR
+SEDUTIL_VER='1.20' # 1.15/1.15.1/1.20, or empty - to use the latest version from AUR
 IMAGE_SIZE_MB=80
 STABLE_KERNEL=linux612
 EFI_FAT_VER=16
