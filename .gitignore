@@ -51,3 +51,5 @@ Temporary Items
 # add here
 /bld
 /*.img
+/*.img.gz
+/SEDPBA-*/
